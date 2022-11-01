@@ -260,7 +260,7 @@ margin-right: 0;
 /* Наша команда */
 .box-team{
     background: #F5F4FA;
-    padding: 94px;
+    padding: 94px 0;
 }
 .team-card{
 background: #FFFFFF;
