@@ -402,9 +402,12 @@ width: 270px;
 }
 .card-box{
     padding:20px 24px;
+    border-bottom:1px solid #EEEEEE;
+    border-left:1px solid #EEEEEE;
+    border-right:1px solid #EEEEEE;
+
 }
 .img-list{
-    outline:1px solid #EEEEEE;
     width: 370px;
     margin:15px;
 }
